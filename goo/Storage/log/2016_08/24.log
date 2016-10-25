@@ -1,0 +1,1078 @@
+[ 2016-08-24T00:34:30+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON company_cpid = cpid WHERE recycle='1' AND cpname LIKE 急招 ;BindParams:array (
+)42S22;1054;Unknown column '急招' in 'where clause'
+[ 2016-08-24T00:35:34+08:00 ]NOTICE: Use of undefined constant 急招 - assumed '急招'D:\wamp\www\lg\App\Home\Controller\IndexController.php (61).
+[ 2016-08-24T00:35:43+08:00 ]NOTICE: Use of undefined constant 急招 - assumed '急招'D:\wamp\www\lg\App\Home\Controller\IndexController.php (61).
+[ 2016-08-24T00:36:00+08:00 ]NOTICE: Use of undefined constant 急招 - assumed '急招'D:\wamp\www\lg\App\Home\Controller\IndexController.php (61).
+[ 2016-08-24T00:43:34+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON company_cpid = cpid WHERE recycle='1' AND runoob_author LIKE '%P' ORDER BY  pubdate DESC  ;BindParams:array (
+)42S22;1054;Unknown column 'runoob_author' in 'where clause'
+[ 2016-08-24T00:45:41+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON company_cpid = cpid WHERE recycle='1' AND s LIKE '%P' ORDER BY  pubdate DESC  ;BindParams:array (
+)42S22;1054;Unknown column 's' in 'where clause'
+[ 2016-08-24T00:47:33+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON company_cpid = cpid WHERE s LIKE '%P' ORDER BY  pubdate DESC  ;BindParams:array (
+)42S22;1054;Unknown column 's' in 'where clause'
+[ 2016-08-24T00:48:00+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON company_cpid = cpid WHERE s LIKE '%P%' ORDER BY  pubdate DESC  ;BindParams:array (
+)42S22;1054;Unknown column 's' in 'where clause'
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:17:43+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:18:31+08:00 ]EXCEPTION: SELECT  jname,city,tempt  FROM job INNER JOIN company ON company_cpid = cpid  INNER JOIN company ON company_cpid = cpid WHERE jname LIKE '%P%' AND recycle='1' ORDER BY  pubdate DESC  ;BindParams:array (
+)42000;1066;Not unique table/alias: 'company'
+[ 2016-08-24T01:18:46+08:00 ]EXCEPTION: SELECT  jname,city,tempt  FROM job INNER JOIN company ON company_cpid = cpid  INNER JOIN company ON company_cpid = cpid WHERE jname LIKE '%P%' AND recycle='1' ORDER BY  pubdate DESC  ;BindParams:array (
+)42000;1066;Not unique table/alias: 'company'
+[ 2016-08-24T01:18:47+08:00 ]EXCEPTION: SELECT  jname,city,tempt  FROM job INNER JOIN company ON company_cpid = cpid  INNER JOIN company ON company_cpid = cpid WHERE jname LIKE '%P%' AND recycle='1' ORDER BY  pubdate DESC  ;BindParams:array (
+)42000;1066;Not unique table/alias: 'company'
+[ 2016-08-24T01:19:00+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:00+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:00+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:00+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:01+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:01+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:01+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:01+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: pubdateD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (358).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (362).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (364).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (366).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (372).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (373).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:19:19+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (377).
+[ 2016-08-24T01:25:19+08:00 ]EXCEPTION: select * from job where jname or city like ? ;BindParams:array (
+  0 => '%上海%',
+  1 => '%P%',
+)HY093;;
+[ 2016-08-24T01:25:41+08:00 ]EXCEPTION: select * from job where jname  like ? ;BindParams:array (
+  0 => '%上海%',
+  1 => '%P%',
+)HY093;;
+[ 2016-08-24T01:27:15+08:00 ]EXCEPTION: select * from job where jname or city like ? ;BindParams:array (
+  0 => '%上海%',
+  1 => '%P%',
+)HY093;;
+[ 2016-08-24T08:23:51+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON company_cpid = cpid WHERE recycle='1' AND jname LIKE '%P%' OR ORDER BY  pubdate DESC  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY  pubdate DESC' at line 1
+[ 2016-08-24T08:27:52+08:00 ]NOTICE: Undefined variable: keywordD:\wamp\www\lg\App\Home\Controller\IndexController.php (67).
+[ 2016-08-24T08:27:52+08:00 ]NOTICE: Undefined variable: keywordD:\wamp\www\lg\App\Home\Controller\IndexController.php (67).
+[ 2016-08-24T09:54:08+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T09:54:08+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T09:55:53+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T09:56:15+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T09:56:15+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T09:59:32+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (44).
+[ 2016-08-24T09:59:44+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\App\Home\Controller\JobController.php (44).
+[ 2016-08-24T10:00:17+08:00 ]NOTICE: Undefined variable: uidD:\wamp\www\lg\App\Home\Controller\JobController.php (48).
+[ 2016-08-24T10:00:17+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:08:02+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:08:02+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:13:11+08:00 ]EXCEPTION: Method Home\Controller\IndexController::content() does not exist
+[ 2016-08-24T10:13:14+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:13:14+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:32:13+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:32:13+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:32:17+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:32:17+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:38:35+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:38:35+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:38:42+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:38:42+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:43:07+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:43:07+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:43:17+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:43:17+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:43:21+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:43:21+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:43:26+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:43:26+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:49:59+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:49:59+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:51:45+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:51:45+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:52:01+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:52:01+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:52:22+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:52:22+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:52:50+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:52:50+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:52:54+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:52:54+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:54:12+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:54:12+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:54:30+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:54:30+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:54:55+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:54:55+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T10:56:12+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T10:56:12+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (104).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (104).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (105).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (113).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (114).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (115).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (116).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (117).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (119).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (127).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (475).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (475).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (477).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (486).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (487).
+[ 2016-08-24T11:02:20+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (492).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (104).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (104).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (105).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (113).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (114).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (115).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (116).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (117).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (119).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (127).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (475).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (475).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (477).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (486).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (487).
+[ 2016-08-24T11:04:57+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (492).
+[ 2016-08-24T11:06:15+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-24T11:06:15+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-24T11:06:15+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\lg\Hdphp\Db\Mysql.php (1267).
+[ 2016-08-24T11:06:15+08:00 ]EXCEPTION: SELECT  *  FROM job INNER JOIN company ON    WHERE jid=20 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE jid=20' at line 1
+[ 2016-08-24T11:06:28+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T11:06:28+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:06:30+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (40).
+[ 2016-08-24T11:06:30+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (145).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: departmentD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (145).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: jnameD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (146).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (154).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: cityD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (155).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (156).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (157).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: natureD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (158).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: temptD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: describeD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (168).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: cplogoD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (516).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (516).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: cpnameD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (518).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: industryD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (527).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: cpscaleD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (528).
+[ 2016-08-24T11:09:25+08:00 ]NOTICE: Undefined index: financingD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (533).
+[ 2016-08-24T11:15:52+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (201).
+[ 2016-08-24T11:16:27+08:00 ]NOTICE: Undefined variable: ridD:\wamp\www\lg\App\Home\Controller\JobController.php (59).
+[ 2016-08-24T11:16:27+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (201).
+[ 2016-08-24T11:19:44+08:00 ]NOTICE: Undefined variable: uidD:\wamp\www\lg\App\Home\Controller\JobController.php (41).
+[ 2016-08-24T11:19:44+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:24:34+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (162).
+[ 2016-08-24T11:26:14+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (167).
+[ 2016-08-24T11:30:05+08:00 ]NOTICE: Illegal string offset 'file'D:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:30:05+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:30:19+08:00 ]NOTICE: Undefined variable: hunterDataD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:30:38+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (76).
+[ 2016-08-24T11:30:38+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:30:39+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (76).
+[ 2016-08-24T11:30:39+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:30:39+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (76).
+[ 2016-08-24T11:30:39+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:30:39+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (76).
+[ 2016-08-24T11:30:39+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:30:41+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (76).
+[ 2016-08-24T11:30:41+08:00 ]EXCEPTION: SELECT  *  FROM resume WHERE lg_user_uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-24T11:31:07+08:00 ]NOTICE: Illegal string offset 'file'D:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:31:07+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T11:31:11+08:00 ]NOTICE: Illegal string offset 'file'D:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (160).
+[ 2016-08-24T12:05:02+08:00 ]NOTICE: Undefined variable: jobD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (288).
+[ 2016-08-24T12:05:12+08:00 ]NOTICE: Undefined variable: jobD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (288).
+[ 2016-08-24T12:05:19+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (288).
+[ 2016-08-24T12:05:59+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:06:04+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (200).
+[ 2016-08-24T12:06:06+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:06:08+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (200).
+[ 2016-08-24T12:06:09+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:07:40+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:07:42+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (200).
+[ 2016-08-24T12:07:44+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:07:45+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (200).
+[ 2016-08-24T12:07:47+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:07:48+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (200).
+[ 2016-08-24T12:07:49+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (200).
+[ 2016-08-24T12:12:25+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (71).
+[ 2016-08-24T12:12:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:13:09+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (72).
+[ 2016-08-24T12:13:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:13:59+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (72).
+[ 2016-08-24T12:13:59+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:14:15+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (73).
+[ 2016-08-24T12:14:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:14:46+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (73).
+[ 2016-08-24T12:14:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:15:11+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (73).
+[ 2016-08-24T12:15:11+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:15:21+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (73).
+[ 2016-08-24T12:15:21+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (430).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:15:54+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:02+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:16:43+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (435).
+[ 2016-08-24T12:18:01+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\App\Home\Controller\IndexController.php (72).
+[ 2016-08-24T12:18:13+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\lg\App\Home\Controller\IndexController.php (72).
+[ 2016-08-24T12:18:23+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\lg\App\Home\Controller\IndexController.php (73).
+[ 2016-08-24T12:32:29+08:00 ]NOTICE: Undefined property: Home\Controller\IndexController::$_requestD:\wamp\www\lg\App\Home\Controller\IndexController.php (83).
+[ 2016-08-24T12:33:48+08:00 ]NOTICE: Undefined index: historyD:\wamp\www\lg\App\Home\Controller\IndexController.php (83).
+[ 2016-08-24T12:33:48+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (432).
+[ 2016-08-24T12:33:48+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:33:48+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:34:15+08:00 ]NOTICE: Undefined index: historyD:\wamp\www\lg\App\Home\Controller\IndexController.php (83).
+[ 2016-08-24T12:34:15+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (432).
+[ 2016-08-24T12:34:15+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:34:15+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:34:35+08:00 ]NOTICE: Undefined index: historyD:\wamp\www\lg\App\Home\Controller\IndexController.php (83).
+[ 2016-08-24T12:34:35+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (432).
+[ 2016-08-24T12:34:35+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:34:35+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:35:06+08:00 ]NOTICE: Undefined index: historyD:\wamp\www\lg\App\Home\Controller\IndexController.php (84).
+[ 2016-08-24T12:35:06+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\lg\Hdphp\Kernel\Functions.php:131)D:\wamp\www\lg\App\Home\Controller\IndexController.php (102).
+[ 2016-08-24T12:35:06+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (432).
+[ 2016-08-24T12:35:06+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:35:06+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:35:57+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (432).
+[ 2016-08-24T12:35:57+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:35:57+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:37:21+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (432).
+[ 2016-08-24T12:37:21+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (433).
+[ 2016-08-24T12:37:21+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (434).
+[ 2016-08-24T12:39:05+08:00 ]NOTICE: unserialize() expects parameter 1 to be string, array givenD:\wamp\www\lg\App\Home\Controller\JobController.php (80).
+[ 2016-08-24T12:39:05+08:00 ]NOTICE: array_unshift() expects parameter 1 to be array, boolean givenD:\wamp\www\lg\App\Home\Controller\JobController.php (81).
+[ 2016-08-24T12:39:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\App\Home\Controller\JobController.php (84).
+[ 2016-08-24T12:39:36+08:00 ]NOTICE: unserialize() expects parameter 1 to be string, array givenD:\wamp\www\lg\App\Home\Controller\JobController.php (81).
+[ 2016-08-24T12:39:36+08:00 ]NOTICE: array_unshift() expects parameter 1 to be array, boolean givenD:\wamp\www\lg\App\Home\Controller\JobController.php (82).
+[ 2016-08-24T12:39:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\App\Home\Controller\JobController.php (85).
+[ 2016-08-24T12:39:36+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\lg\Hdphp\Kernel\Functions.php:131)D:\wamp\www\lg\App\Home\Controller\JobController.php (95).
+[ 2016-08-24T12:39:45+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:39:45+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:39:45+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:39:50+08:00 ]NOTICE: unserialize() expects parameter 1 to be string, array givenD:\wamp\www\lg\App\Home\Controller\JobController.php (81).
+[ 2016-08-24T12:39:50+08:00 ]NOTICE: array_unshift() expects parameter 1 to be array, boolean givenD:\wamp\www\lg\App\Home\Controller\JobController.php (82).
+[ 2016-08-24T12:39:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\App\Home\Controller\JobController.php (85).
+[ 2016-08-24T12:39:51+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:39:51+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:39:51+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:43:24+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:43:24+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:43:24+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:44:36+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:44:36+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:44:36+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:44:42+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:44:42+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:44:42+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:45:38+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:45:38+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:45:38+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:45:40+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:45:40+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:45:40+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T12:45:42+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T12:45:42+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T12:45:42+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T13:13:21+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (159).
+[ 2016-08-24T13:13:36+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (159).
+[ 2016-08-24T13:13:38+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (159).
+[ 2016-08-24T13:13:40+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (159).
+[ 2016-08-24T13:13:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (159).
+[ 2016-08-24T13:24:20+08:00 ]EXCEPTION: Home\Controller\ListController 不存在
+[ 2016-08-24T13:24:31+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (248).
+[ 2016-08-24T13:24:31+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (255).
+[ 2016-08-24T13:24:31+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (256).
+[ 2016-08-24T13:24:31+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (257).
+[ 2016-08-24T13:24:31+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (24).
+[ 2016-08-24T13:24:42+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (248).
+[ 2016-08-24T13:24:42+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (255).
+[ 2016-08-24T13:24:42+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (256).
+[ 2016-08-24T13:24:42+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (257).
+[ 2016-08-24T13:24:42+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (24).
+[ 2016-08-24T13:31:23+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:31:30+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:32:06+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:37:55+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (165).
+[ 2016-08-24T13:38:01+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (165).
+[ 2016-08-24T13:39:40+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:40:53+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:40:56+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:40:59+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:42:20+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:42:23+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:43:11+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (31).
+[ 2016-08-24T13:43:11+08:00 ]NOTICE: Undefined variable: jobDataD:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:43:11+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:43:48+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (32).
+[ 2016-08-24T13:43:48+08:00 ]NOTICE: Undefined variable: jobDataD:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:43:48+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:46:06+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (33).
+[ 2016-08-24T13:46:06+08:00 ]NOTICE: Undefined variable: jobDataD:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:46:06+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:46:23+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (33).
+[ 2016-08-24T13:46:23+08:00 ]NOTICE: Undefined variable: jobDataD:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:46:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:46:50+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (33).
+[ 2016-08-24T13:46:50+08:00 ]NOTICE: Undefined variable: jobDataD:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:46:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:47:27+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (34).
+[ 2016-08-24T13:47:27+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:47:33+08:00 ]NOTICE: Undefined variable: countJobsD:\wamp\www\lg\App\Home\Controller\JobController.php (34).
+[ 2016-08-24T13:47:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\dd4e8d71f28edda81598ab7cc08812d7.php (150).
+[ 2016-08-24T13:52:21+08:00 ]NOTICE: Undefined variable: TopDistrictDataD:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T13:52:21+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T13:52:28+08:00 ]NOTICE: Undefined variable: TopDistrictDataD:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T13:52:28+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T13:52:33+08:00 ]NOTICE: Undefined variable: TopDistrictDataD:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T13:52:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T13:53:16+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:53:21+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:53:46+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T13:53:55+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (165).
+[ 2016-08-24T13:54:08+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T14:09:09+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE lg_user_uid=10 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'lg_user_uid' in 'where clause'
+[ 2016-08-24T14:11:02+08:00 ]NOTICE: Undefined variable: resumeDataD:\wamp\www\lg\App\Home\Controller\PersonaController.php (32).
+[ 2016-08-24T14:11:11+08:00 ]NOTICE: Undefined variable: resumeDataD:\wamp\www\lg\App\Home\Controller\PersonaController.php (32).
+[ 2016-08-24T14:40:47+08:00 ]NOTICE: session_destroy() expects exactly 0 parameters, 1 givenD:\wamp\www\lg\App\Home\Controller\PersonaController.php (38).
+[ 2016-08-24T14:41:42+08:00 ]NOTICE: session_destroy() expects exactly 0 parameters, 1 givenD:\wamp\www\lg\App\Home\Controller\PersonaController.php (38).
+[ 2016-08-24T15:59:58+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (70).
+[ 2016-08-24T16:00:36+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (70).
+[ 2016-08-24T16:03:11+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (70).
+[ 2016-08-24T16:03:11+08:00 ]NOTICE: Undefined index: jidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:11+08:00 ]NOTICE: Undefined index: jnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:11+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:03:11+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Undefined index: recentlyD:\wamp\www\lg\App\Home\Controller\IndexController.php (70).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Illegal string offset 'jid'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:03:17+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Illegal string offset 'jid'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Illegal string offset 'jname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Illegal string offset 'money'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Illegal string offset 'cpshortName'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:03:42+08:00 ]NOTICE: Uninitialized string offset: 0D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:03:49+08:00 ]NOTICE: Undefined index: jidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:49+08:00 ]NOTICE: Undefined index: jnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:03:49+08:00 ]NOTICE: Undefined index: moneyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:03:49+08:00 ]NOTICE: Undefined index: cpshortNameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:04:41+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:04:41+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (391).
+[ 2016-08-24T16:04:41+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (392).
+[ 2016-08-24T16:04:41+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (393).
+[ 2016-08-24T16:51:28+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T17:05:34+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (204).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (206).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: cellphoneD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (210).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (211).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (211).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: positionD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (218).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: sexD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (223).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: sexD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (226).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: sexD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (229).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: ageD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (236).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (241).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (244).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (247).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (250).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (253).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (262).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (265).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (268).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (271).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (274).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (277).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (280).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (283).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (286).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (289).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (292).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: introductionsD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (321).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: cellphoneD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (325).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (332).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (333).
+[ 2016-08-24T17:09:15+08:00 ]NOTICE: Undefined index: fileD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (359).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (204).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (206).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: cellphoneD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (210).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (211).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (211).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: positionD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (218).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: sexD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (223).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: sexD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (226).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: sexD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (229).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: ageD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (236).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (241).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (244).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (247).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (250).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: educationD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (253).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (262).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (265).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (268).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (271).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (274).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (277).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (280).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (283).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (286).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (289).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: experienceD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (292).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: introductionsD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (321).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: cellphoneD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (325).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (332).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: emailD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (333).
+[ 2016-08-24T17:09:45+08:00 ]NOTICE: Undefined index: fileD:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (359).
+[ 2016-08-24T17:10:51+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (24).
+[ 2016-08-24T17:10:57+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\App\Home\Controller\JobController.php (24).
+[ 2016-08-24T17:11:22+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (268).
+[ 2016-08-24T17:12:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Hdphp\Db\Mysql.php (204).
+[ 2016-08-24T17:13:32+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Hdphp\Db\Mysql.php (204).
+[ 2016-08-24T17:19:33+08:00 ]NOTICE: Undefined offset: 3D:\wamp\www\lg\App\Home\Controller\JobController.php (108).
+[ 2016-08-24T17:19:33+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE district_name={''} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '''} LIMIT 1' at line 1
+[ 2016-08-24T17:19:43+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE district_name={'道里区'} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''道里区'} LIMIT 1' at line 1
+[ 2016-08-24T17:20:06+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE district_name=道里区 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column '道里区' in 'where clause'
+[ 2016-08-24T17:23:14+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE district_name=北京 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column '北京' in 'where clause'
+[ 2016-08-24T18:51:12+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Resume/index.php
+[ 2016-08-24T18:51:19+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Resume/index.php
+[ 2016-08-24T18:52:32+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Resume/index.php
+[ 2016-08-24T18:55:09+08:00 ]NOTICE: Undefined variable: TopDistrictDataD:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T18:55:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\785c829afb8f384a2c1ce4b297d0fba4.php (247).
+[ 2016-08-24T20:03:04+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\lg\App\Home\Controller\IndexController.php (80).
+[ 2016-08-24T20:04:27+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::limit()D:\wamp\www\lg\Hdphp\Db\Mysql.php (964).
+[ 2016-08-24T20:04:27+08:00 ]NOTICE: Undefined variable: firstD:\wamp\www\lg\Hdphp\Db\Mysql.php (968).
+[ 2016-08-24T20:09:59+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid NOT IN 1,2,3,4,5 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1,2,3,4,5' at line 1
+[ 2016-08-24T20:10:49+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE  id NOT IN (?) ;BindParams:array (
+  0 => '1,2,3,4,5',
+)42S22;1054;Unknown column 'id' in 'where clause'
+[ 2016-08-24T20:15:13+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid=0 NOT (1,2,3,4,5) ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1,2,3,4,5)' at line 1
+[ 2016-08-24T20:15:19+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid=0 NOT 1,2,3,4,5 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1,2,3,4,5' at line 1
+[ 2016-08-24T20:15:26+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid=0 NOT '1,2,3,4,5' ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1,2,3,4,5'' at line 1
+[ 2016-08-24T20:20:47+08:00 ]NOTICE: Undefined variable: disShowDataD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (180).
+[ 2016-08-24T20:20:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (180).
+[ 2016-08-24T20:21:17+08:00 ]NOTICE: Undefined variable: disShowDataD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (180).
+[ 2016-08-24T20:21:17+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (180).
+[ 2016-08-24T21:56:52+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (208).
+[ 2016-08-24T21:56:52+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (209).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Illegal offset typeD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Illegal offset typeD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Illegal offset typeD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Illegal offset typeD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Illegal offset typeD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (212).
+[ 2016-08-24T22:00:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (213).
+[ 2016-08-24T22:01:26+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:01:26+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:01:26+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:01:26+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:01:26+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:01:26+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (212).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: Undefined variable: tempD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:02:15+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (209).
+[ 2016-08-24T22:02:33+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (170).
+[ 2016-08-24T22:02:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (171).
+[ 2016-08-24T22:02:33+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (212).
+[ 2016-08-24T22:02:40+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (209).
+[ 2016-08-24T22:06:41+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:06:41+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:06:41+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:06:41+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:06:41+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:17+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:17+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:17+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:17+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:17+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:21+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:21+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:21+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:21+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:21+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined variable: paramD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (174).
+[ 2016-08-24T22:08:42+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:09:49+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:09:49+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:09:49+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:09:49+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:09:49+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:17+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:17+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:17+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:17+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:17+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:26+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:26+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:26+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:26+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:10:26+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T22:39:47+08:00 ]NOTICE: Undefined index: district_nameD:\wamp\www\lg\App\Home\Controller\IndexController.php (102).
+[ 2016-08-24T23:18:59+08:00 ]NOTICE: Undefined index: district_nameD:\wamp\www\lg\App\Home\Controller\IndexController.php (110).
+[ 2016-08-24T23:19:17+08:00 ]NOTICE: Undefined index: district_nameD:\wamp\www\lg\App\Home\Controller\IndexController.php (110).
+[ 2016-08-24T23:24:12+08:00 ]NOTICE: Undefined index: district_nameD:\wamp\www\lg\App\Home\Controller\IndexController.php (110).
+[ 2016-08-24T23:24:13+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (148).
+[ 2016-08-24T23:24:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (148).
+[ 2016-08-24T23:24:13+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (172).
+[ 2016-08-24T23:24:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (172).
+[ 2016-08-24T23:24:13+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (419).
+[ 2016-08-24T23:24:13+08:00 ]NOTICE: Undefined variable: recentlyD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (428).
+[ 2016-08-24T23:24:20+08:00 ]NOTICE: Undefined index: district_nameD:\wamp\www\lg\App\Home\Controller\IndexController.php (110).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:38:03+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:20+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:39:44+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (172).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (172).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:41:55+08:00 ]NOTICE: Undefined index: D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (196).
+[ 2016-08-24T23:42:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (172).
+[ 2016-08-24T23:43:03+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (172).
+[ 2016-08-24T23:43:39+08:00 ]NOTICE: Illegal string offset 'plid'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T23:43:39+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T23:43:39+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T23:43:54+08:00 ]NOTICE: Illegal string offset 'plid'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T23:43:54+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T23:43:54+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T23:44:25+08:00 ]NOTICE: Illegal string offset 'plid'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T23:44:25+08:00 ]NOTICE: Illegal string offset 'ctname'D:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T23:44:25+08:00 ]NOTICE: Undefined index: plidD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (175).
+[ 2016-08-24T23:44:25+08:00 ]NOTICE: Undefined index: ctnameD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (177).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:44+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:45:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (194).
+[ 2016-08-24T23:51:05+08:00 ]EXCEPTION: Method Home\Controller\IndexController::huntlis() does not exist
+[ 2016-08-24T23:51:16+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:51:19+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:51:26+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:52:09+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:52:28+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:52:32+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:53:28+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:53:33+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:53:52+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:53:53+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-24T23:53:54+08:00 ]EXCEPTION: Method Home\Controller\IndexController::huntlis() does not exist
+[ 2016-08-24T23:55:45+08:00 ]EXCEPTION: Method Home\Controller\IndexController::huntlis() does not exist

@@ -1,0 +1,718 @@
+[ 2016-08-31T00:00:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T00:02:18+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T00:02:36+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T00:02:40+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T00:02:47+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (163).
+[ 2016-08-31T00:02:49+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (163).
+[ 2016-08-31T00:02:50+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (161).
+[ 2016-08-31T00:03:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:06+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:11+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:16+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:03:29+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T00:05:59+08:00 ]NOTICE: Undefined index: company_cpidD:\wamp\www\new_lg\App\Common\Model\Job.php (64).
+[ 2016-08-31T00:05:59+08:00 ]EXCEPTION: UPDATE company SET hot_click=hot_click+1 WHERE cpid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-31T00:08:50+08:00 ]EXCEPTION: UPDATE company SET hot_click=hot_click+1 WHERE cpid=4 ;BindParams:array (
+)42S22;1054;Unknown column 'hot_click' in 'field list'
+[ 2016-08-31T00:42:11+08:00 ]EXCEPTION: SELECT  *  FROM job WHERE jid={$jid} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} LIMIT 1' at line 1
+[ 2016-08-31T00:42:13+08:00 ]EXCEPTION: SELECT  *  FROM job WHERE jid={$jid} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} LIMIT 1' at line 1
+[ 2016-08-31T00:42:13+08:00 ]EXCEPTION: SELECT  *  FROM job WHERE jid={$jid} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} LIMIT 1' at line 1
+[ 2016-08-31T00:42:24+08:00 ]EXCEPTION: SELECT  *  FROM job WHERE jid={$jid} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} LIMIT 1' at line 1
+[ 2016-08-31T00:43:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:44:20+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:44:26+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:50:28+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:28+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:29+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:33+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:41+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:41+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:41+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:41+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:44+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:45+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:45+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:45+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:46+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:46+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:46+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:50:49+08:00 ]EXCEPTION: UPDATE company SET job_count=job_count+-1 WHERE cpid=4 ;BindParams:array (
+)22003;1690;BIGINT UNSIGNED value is out of range in '(`lg_edu`.`company`.`job_count` + -(1))'
+[ 2016-08-31T00:52:18+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:52:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:52:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:52:23+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:52:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:52:23+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:27+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:27+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:27+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:32+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:32+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:46+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:48+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:48+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:48+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:50+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:50+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:50+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:52+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:52+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:53+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:53+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:55+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:54:56+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:56+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (180).
+[ 2016-08-31T00:54:56+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (423).
+[ 2016-08-31T00:57:48+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (163).
+[ 2016-08-31T00:57:53+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (163).
+[ 2016-08-31T00:58:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:58:14+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (551).
+[ 2016-08-31T00:58:18+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (163).
+[ 2016-08-31T08:07:19+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T08:07:24+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T08:07:29+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T08:50:00+08:00 ]EXCEPTION: Method Home\Controller\PersonaController::editpassword() does not exist
+[ 2016-08-31T08:53:34+08:00 ]NOTICE: Undefined index: uidD:\wamp\www\new_lg\App\Common\Model\User.php (82).
+[ 2016-08-31T08:53:34+08:00 ]EXCEPTION: UPDATE lg_user SET `username`=?,`sex`=?  WHERE uid= ;BindParams:array (
+  'username' => '未填写',
+  'sex' => 'male',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-31T08:57:45+08:00 ]NOTICE: Use of undefined constant 修改成功 - assumed '修改成功'D:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (21).
+[ 2016-08-31T09:41:40+08:00 ]NOTICE: Undefined variable: uidD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (34).
+[ 2016-08-31T09:41:40+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T09:41:54+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\new_lg\Storage\view\compile\8d29843094081ee280821bd3726b08e1.php (168).
+[ 2016-08-31T09:41:54+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\new_lg\Storage\view\compile\8d29843094081ee280821bd3726b08e1.php (168).
+[ 2016-08-31T10:11:22+08:00 ]EXCEPTION: Method Home\Controller\PersonaController::Persona_password.html() does not exist
+[ 2016-08-31T10:40:53+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T10:40:55+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:40:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:40:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:01+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:01+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:03+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:03+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:04+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:04+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:05+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:05+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:07+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:07+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:07+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:07+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:07+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:08+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:08+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:11+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:11+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:11+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:13+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:13+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:17+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:17+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:17+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:19+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:22+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:22+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:22+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:25+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:25+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:25+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:28+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:28+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:28+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:29+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:29+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:29+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:31+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:31+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:31+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:32+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:32+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:32+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:32+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:33+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:33+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:34+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:34+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:35+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:35+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:35+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:35+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:36+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:36+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:37+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:37+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:38+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:38+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:38+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:41:39+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:39+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:41:39+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:45:27+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:45:31+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:45:40+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:45:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:46:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:46:04+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:46:10+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE plid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T10:46:16+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE plid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T10:46:49+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE plid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T10:46:59+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE plid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T10:47:23+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE plid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T10:47:25+08:00 ]EXCEPTION: SELECT  *  FROM district WHERE plid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T10:48:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:50:12+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:51:33+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:52:31+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:52:54+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:57:31+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T10:57:38+08:00 ]NOTICE: Undefined variable: disDataD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:57:38+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (174).
+[ 2016-08-31T10:57:38+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (417).
+[ 2016-08-31T10:57:40+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T10:57:44+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T10:58:38+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T10:58:48+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T10:58:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T10:58:58+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T10:59:52+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:00:35+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:18+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:28+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:30+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:49+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:53+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:01:55+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:02:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:02:51+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:03:42+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:04:32+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:04:34+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:04:37+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:24:41+08:00 ]EXCEPTION: Method Home\Controller\PersonaController::index6() does not exist
+[ 2016-08-31T11:27:05+08:00 ]NOTICE: unlink(): Invalid argumentD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (80).
+[ 2016-08-31T11:40:34+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (13).
+[ 2016-08-31T11:40:34+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (31).
+[ 2016-08-31T11:40:34+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T11:42:25+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (13).
+[ 2016-08-31T11:42:25+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (14).
+[ 2016-08-31T11:42:25+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (32).
+[ 2016-08-31T11:42:25+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T11:42:54+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (13).
+[ 2016-08-31T11:42:54+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\PersonaController.php (14).
+[ 2016-08-31T11:43:36+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\new_lg\App\Home\Controller\JobhunterController.php (14).
+[ 2016-08-31T11:43:36+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-31T11:47:03+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (587).
+[ 2016-08-31T11:48:18+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (199).
+[ 2016-08-31T11:49:12+08:00 ]NOTICE: Undefined index: shequ_picD:\wamp\www\new_lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (182).
+[ 2016-08-31T11:49:52+08:00 ]NOTICE: Undefined index: shequ_picD:\wamp\www\new_lg\Storage\view\compile\47cf42f47480263b49b6d10bf25e3e5e.php (182).
+[ 2016-08-31T11:58:10+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T11:58:14+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T12:00:42+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T12:01:14+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T12:01:20+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T12:01:37+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (264).
+[ 2016-08-31T12:02:17+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:02:21+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:02:23+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:02:51+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:02:57+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:03:04+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:03:08+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:24:17+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T12:24:24+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T12:24:33+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T12:24:35+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (155).
+[ 2016-08-31T12:24:42+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T12:25:01+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:25:03+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:25:05+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:25:07+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:25:08+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:25:10+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (187).
+[ 2016-08-31T12:25:12+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:26:58+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:27:00+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (289).
+[ 2016-08-31T12:27:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T12:27:22+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T12:27:47+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T13:52:15+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T13:52:19+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (545).
+[ 2016-08-31T13:52:24+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T13:52:29+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T13:52:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (199).
+[ 2016-08-31T13:52:49+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-08-31T13:53:37+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (199).
+[ 2016-08-31T13:53:48+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (199).
+[ 2016-08-31T17:05:00+08:00 ]EXCEPTION: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[ 2016-08-31T17:06:10+08:00 ]EXCEPTION: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ 2016-08-31T17:06:13+08:00 ]EXCEPTION: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ 2016-08-31T17:06:40+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c69_guoqing'@'%' to database 'lg_edu'
+[ 2016-08-31T17:06:42+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c69_guoqing'@'%' to database 'lg_edu'
+[ 2016-08-31T17:13:06+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c69_guoqing'@'%' to database 'lg_edu'
+[ 2016-08-31T17:13:31+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c69_guoqing'@'%' to database 'lg_edu'
+[ 2016-08-31T17:16:50+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (395).
+[ 2016-08-31T17:17:54+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (575).
+[ 2016-08-31T17:20:19+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (575).
+[ 2016-08-31T17:20:46+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (575).
+[ 2016-08-31T17:20:51+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (575).
+[ 2016-08-31T17:21:43+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-08-31T17:22:10+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:22:29+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (396).
+[ 2016-08-31T17:22:29+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (396).
+[ 2016-08-31T17:22:29+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (816).
+[ 2016-08-31T17:22:38+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-08-31T17:22:49+08:00 ]EXCEPTION: SELECT  count(*) AS c  FROM job INNER JOIN company ON company_cpid = cpid  INNER JOIN district ON city = plid WHERE  recycle='1'  AND (jname LIKE '%'n%' OR cpshortName LIKE '%'n%' OR cpaddress LIKE '%'n%' OR place LIKE '%'n%' OR district_name LIKE '%'n%')  ORDER BY  pubdate ASC  LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'n%' OR cpshortName LIKE '%'n%' OR cpaddress LIKE '%'n%' OR place LIKE '%'n%' OR ' at line 1
+[ 2016-08-31T17:23:36+08:00 ]EXCEPTION: SELECT  count(*) AS c  FROM job INNER JOIN company ON company_cpid = cpid  INNER JOIN district ON city = plid WHERE  recycle='1'  AND (jname LIKE '%'n%' OR cpshortName LIKE '%'n%' OR cpaddress LIKE '%'n%' OR place LIKE '%'n%' OR district_name LIKE '%'n%')  ORDER BY  pubdate ASC  LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'n%' OR cpshortName LIKE '%'n%' OR cpaddress LIKE '%'n%' OR place LIKE '%'n%' OR ' at line 1
+[ 2016-08-31T17:23:53+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:24:24+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:24:28+08:00 ]EXCEPTION: SELECT  count(*) AS c  FROM job INNER JOIN company ON company_cpid = cpid  INNER JOIN district ON city = plid WHERE  recycle='1'  AND (jname LIKE '%'n%' OR cpshortName LIKE '%'n%' OR cpaddress LIKE '%'n%' OR place LIKE '%'n%' OR district_name LIKE '%'n%')  ORDER BY  pubdate ASC  LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'n%' OR cpshortName LIKE '%'n%' OR cpaddress LIKE '%'n%' OR place LIKE '%'n%' OR ' at line 1
+[ 2016-08-31T17:24:29+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:25:24+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-08-31T17:25:37+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-08-31T17:25:42+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-08-31T17:26:15+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-08-31T17:26:35+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (311).
+[ 2016-08-31T17:27:09+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-08-31T17:31:39+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:34:33+08:00 ]EXCEPTION: INSERT INTO company_data (`company_cpid`)VALUES(?) ;BindParams:array (
+  0 => '8',
+)HY000;1364;Field 'detailed' doesn't have a default value
+[ 2016-08-31T17:36:11+08:00 ]EXCEPTION: INSERT INTO company_data (`company_cpid`)VALUES(?) ;BindParams:array (
+  0 => '9',
+)HY000;1364;Field 'detailed' doesn't have a default value
+[ 2016-08-31T17:43:03+08:00 ]EXCEPTION: INSERT INTO company_data (`company_cpid`)VALUES(?) ;BindParams:array (
+  0 => '10',
+)HY000;1364;Field 'detailed' doesn't have a default value
+[ 2016-08-31T17:43:54+08:00 ]EXCEPTION: INSERT INTO company_data (`company_cpid`)VALUES(?) ;BindParams:array (
+  0 => '11',
+)HY000;1364;Field 'detailed' doesn't have a default value
+[ 2016-08-31T17:47:47+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:47:52+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:47:54+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:47:56+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T17:54:50+08:00 ]EXCEPTION: INSERT INTO company_data (`company_cpid`)VALUES(?) ;BindParams:array (
+  0 => '12',
+)HY000;1364;Field 'detailed' doesn't have a default value
+[ 2016-08-31T17:56:27+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (396).
+[ 2016-08-31T17:56:27+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (396).
+[ 2016-08-31T17:56:27+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (816).
+[ 2016-08-31T18:14:19+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-08-31T18:14:41+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-08-31T18:20:24+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-08-31T18:20:35+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T18:20:38+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T18:20:46+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T18:20:47+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T18:20:49+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-08-31T18:20:51+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (396).
+[ 2016-08-31T18:20:51+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (396).
+[ 2016-08-31T18:20:51+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (816).
+[ 2016-08-31T18:20:58+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-08-31T18:20:58+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-08-31T18:20:58+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (756).
+[ 2016-08-31T18:21:57+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1070).
+[ 2016-08-31T18:22:05+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1070).
+[ 2016-08-31T18:22:06+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1070).
+[ 2016-08-31T18:22:08+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1070).
+[ 2016-08-31T18:22:38+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '女',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T18:22:57+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T18:23:07+08:00 ]NOTICE: unlink(): No such file or directoryC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (58).
+[ 2016-08-31T18:23:18+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '北京市,北京,东城区',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T19:31:34+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '女',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => 'dfasdfadsf',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T19:31:40+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '女',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => 'dfasdfadsffdsafads',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T19:32:08+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '女',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '12313',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T19:32:28+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '女',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0,0',
+  6 => '',
+  7 => '12313',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T19:32:44+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '12313',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T20:03:24+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => 'eqwe',
+  8 => '',
+  9 => '',
+  10 => '27',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T20:39:05+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1070).
+[ 2016-08-31T20:39:34+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (395).
+[ 2016-08-31T20:40:30+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:40:30+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:40:30+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-08-31T20:41:05+08:00 ]EXCEPTION: INSERT INTO action (`actioning`,`job_jid`,`resume_rid`,`act_time`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 4,
+  2 => NULL,
+  3 => 1472647265,
+)23000;1048;Column 'resume_rid' cannot be null
+[ 2016-08-31T20:41:08+08:00 ]EXCEPTION: INSERT INTO action (`actioning`,`job_jid`,`resume_rid`,`act_time`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 4,
+  2 => NULL,
+  3 => 1472647268,
+)23000;1048;Column 'resume_rid' cannot be null
+[ 2016-08-31T20:41:08+08:00 ]EXCEPTION: INSERT INTO action (`actioning`,`job_jid`,`resume_rid`,`act_time`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 4,
+  2 => NULL,
+  3 => 1472647268,
+)23000;1048;Column 'resume_rid' cannot be null
+[ 2016-08-31T20:41:08+08:00 ]EXCEPTION: INSERT INTO action (`actioning`,`job_jid`,`resume_rid`,`act_time`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 4,
+  2 => NULL,
+  3 => 1472647268,
+)23000;1048;Column 'resume_rid' cannot be null
+[ 2016-08-31T20:41:29+08:00 ]NOTICE: unlink(): No such file or directoryC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (58).
+[ 2016-08-31T20:42:16+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'php',
+  1 => '男',
+  2 => '20',
+  3 => '本科',
+  4 => '3年',
+  5 => '湖北,襄樊,襄阳区',
+  6 => '不得了的giter',
+  7 => '2222229809',
+  8 => '2222229809@163.com',
+  9 => '',
+  10 => '28',
+)HY000;1366;Incorrect integer value: '' for column 'rid' at row 1
+[ 2016-08-31T20:43:22+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:22+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:22+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-08-31T20:43:25+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:25+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:25+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-08-31T20:43:30+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:30+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:30+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-08-31T20:43:32+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:32+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:32+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-08-31T20:43:34+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:34+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-08-31T20:43:34+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-08-31T20:51:03+08:00 ]NOTICE: Undefined index: codeC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\LoginController.php (25).
+[ 2016-08-31T20:51:19+08:00 ]NOTICE: Undefined index: codeC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\LoginController.php (25).
+[ 2016-08-31T20:55:18+08:00 ]NOTICE: Undefined index: codeC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\User.php (63).
+[ 2016-08-31T20:56:07+08:00 ]NOTICE: Undefined index: codeC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\User.php (63).
+[ 2016-08-31T20:57:33+08:00 ]NOTICE: Undefined index: codeC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\User.php (63).
+[ 2016-08-31T21:00:03+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:03:36+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:03:46+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:04:08+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:04:28+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:04:30+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:04:37+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '2',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'rid' at row 1
+[ 2016-08-31T21:05:41+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:10:50+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\68474af44afea5f7ae4d214662c38943.php (650).
+[ 2016-08-31T21:11:17+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:16:39+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:18:13+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => '',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'age' at row 1
+[ 2016-08-31T21:25:56+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => 0,
+  3 => '硕士',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '29',
+)HY000;1366;Incorrect integer value: '' for column 'rid' at row 1

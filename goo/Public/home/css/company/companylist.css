@@ -1,0 +1,132 @@
+#companyList {
+  padding-top: 20px;
+}
+#companyList .cm_ul {
+	overflow: hidden;
+	width: 970px;  
+}
+#companyList .cm_ul li {
+  width: 406px;
+  padding: 28px 32px;
+  height: 234px;
+  border: 1px solid #ededed;
+  margin-bottom: 20px;
+  position: relative;
+  margin-right: 10px;
+}
+#companyList .cm_ul li .cm_cont {
+  height: 200px;
+}
+#companyList .cm_ul li .cm_cont dt {
+  width: 130px;
+  height: 130px;
+  border: 1px solid #ededed;
+}
+#companyList .cm_ul li .cm_cont dt a {
+  display: block;
+  width: 130px;
+  height: 130px;
+}
+#companyList .cm_ul li .cm_cont dt a img {
+  width: 130px;
+  height: 130px;
+}
+#companyList .cm_ul li .cm_cont dd {
+  width: 250px;
+  height: 130px;
+}
+#companyList .cm_ul li .cm_cont dd h3 {
+  font-size: 22px;
+  line-height: 40px;
+  width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+#companyList .cm_ul li .cm_cont dd h3 a {
+  color: #333;
+  font-size: 24px;
+  font-weight: 400;
+}
+#companyList .cm_ul li .cm_cont dd h3 a:hover {
+  color: #00b38a;
+}
+#companyList .cm_ul li .cm_cont dd .sub_title {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 14px 0 18px;
+  line-height: 18px;
+}
+#companyList .cm_ul li .cm_cont dd .sub_title p {
+  margin-top: 10px;
+}
+#companyList .cm_ul li .cm_cont dd .sub_title a {
+  color: #555;
+  font-size: 17px;
+}
+#companyList .cm_ul li .cm_cont dd .sub_title a span {
+  color: #00b38a;
+  margin-right: 10px;
+}
+#companyList .cm_ul li .cm_cont dd .sub_title a:hover {
+  color: #00b38a;
+}
+#companyList .cm_ul li .cm_cont .someth {
+  clear: both;
+  padding-top: 18px;
+  color: #666;
+}
+#companyList .cm_ul li .cm_msg {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 0 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 54px;
+  line-height: 54px;
+  background-color: #fafafa;
+  color: #999;
+}
+#companyList .cm_ul li .cm_msg span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+#companyList .cm_ul li .cm_msg span i {
+  display: inline-block;
+  vertical-align: middle;
+  width: 15px;
+  height: 18px;
+  margin-right: 12px;
+  background: url(../../imgs/icon_b778959.png) 0 -18px no-repeat;
+}
+#companyList .cm_ul li .cm_msg .web {
+  max-width: 208px;
+}
+#companyList .cm_ul li .cm_msg .web i {
+  background-position: 0 0;
+}
+#companyList .cm_ul li .cm_msg .place {
+  max-width: 88px;
+}
+#companyList .cm_ul li .cm_msg .place i {
+  margin-left: 14px;
+  background-position: 0 -36px;
+}
+#companyList .cm_ul li .cm_msg .type {
+  text-align: center;
+  display: block;
+}
+#companyList .cm_ul li:hover {
+  border: 1px solid #00b38a;
+}
+#companyList .cm_ul .fl {
+  float: left;
+}
+#companyList .cm_ul .fr {
+  float: right;
+}
+/*# sourceMappingURL=companylist.css.map */

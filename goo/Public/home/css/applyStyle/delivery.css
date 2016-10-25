@@ -1,0 +1,204 @@
+#content .new_section .delivery_tabs {
+  background: #f2f2f2;
+}
+#content .new_section .no_delivery{
+    font-size: 18px;
+    min-height: 65px;
+    background: url(../../imgs/noresult_95_9bde913.png) 160px 0 no-repeat;
+    padding: 60px 0 0 270px;
+    margin: 80px 0;
+    line-height: 32px;
+}
+#content .new_section .delivery_tabs .current {
+  border-bottom: 2px solid #00b38a;
+}
+#content .new_section .delivery_tabs ul.reset li {
+  position: relative;
+  font-size: 0;
+  padding: 16px 0 13px;
+  vertical-align: middle;
+  display: inline-block;
+}
+#content .new_section .delivery_tabs ul.reset li:hover a {
+  color: #00b38a;
+}
+#content .new_section .delivery_tabs ul.reset li a {
+  display: block;
+  border-left: 1px solid #d8d8d8;
+  color: #777777;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 0 26px 0 25px;
+}
+#content .new_section .delivery_tabs ul.reset li.AllNo a {
+  border-left: none;
+}
+
+#content .new_section ul.my_delivery {
+  margin: 20px 34px 20px 29px;
+}
+#content .new_section ul.my_delivery li {
+  margin-bottom: 30px;
+  background: #fff;
+  position: relative;
+}
+#content .new_section ul.my_delivery li div.d_item {
+  border-left: 3px solid #91cebe;
+  overflow: hidden;
+  padding: 3px 12px;
+}
+#content .new_section ul.my_delivery li div.d_item h2 {
+  padding: 5px 0;
+  margin: 0 !important;
+  font-weight: 400;
+  float: left;
+}
+#content .new_section ul.my_delivery li div.d_item h2 em {
+  font-size: 18px;
+  color: #00b38a;
+}
+#content .new_section ul.my_delivery li div.d_item h2 span {
+  color: #e6775c;
+  font-size: 16px;
+  float: none;
+}
+#content .new_section ul.my_delivery li div.d_item a.d_jobname {
+  clear: both;
+  float: left;
+  color: #555;
+  font-size: 16px;
+  margin: 5px 0;
+}
+#content .new_section ul.my_delivery li div.d_item a.d_jobname span {
+  color: #999;
+}
+#content .new_section ul.my_delivery li div.d_item span.d_time {
+  color: #999;
+  float: right;
+  margin: 5px 0;
+}
+#content .new_section ul.my_delivery li div.d_item a.btn_showprogress {
+  margin: 5px 5px;
+  position: relative;
+  float: right;
+}
+#content .new_section ul.my_delivery li div.d_item a.btn_showprogress:hover {
+  color: #00b38a;
+}
+#content .new_section ul.my_delivery li div.d_item a.btn_showprogress i {
+  position: absolute;
+  top: 8px;
+  right: -12px;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
+  border-width: 6px 6px 0;
+  border-style: solid dashed;
+  border-color: #019875 transparent transparent;
+  transition: all .4s ease 0s;
+}
+#content .new_section ul.my_delivery li div.d_item a.btn_showprogress .transform {
+  transform: rotate(180deg);
+  transition: all .4s ease 0s;
+}
+#content .new_section ul.my_delivery li .progress_status {
+  display: none;
+  border-top: 1px dashed #ccc;
+  border-bottom: 2px solid #91cebe;
+  padding: 25px 35px;
+  position: relative;
+  zoom: 1;
+  overflow: hidden;
+  transition: all .2s ease-in-out;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_steps li {
+  float: left;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_steps li.status_done {
+  width: 28px;
+  height: 28px;
+  background: url(../../imgs/status_bg_4625e98.png) left top no-repeat;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_steps li.status_1 {
+  margin-left: 20px;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_steps .status_line {
+  width: 120px;
+  margin-top: 12px;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_steps .status_line span {
+  display: block;
+  height: 4px;
+  background: #dadada;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_steps .status_grey {
+  width: 28px;
+  height: 28px;
+  background: url(../../imgs/status_bg_4625e98.png) left bottom no-repeat;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_text {
+  position: relative;
+  margin-bottom: 30px;
+  height: 60px;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_text li {
+  position: absolute;
+  width: 148px;
+  text-align: center;
+  top: 32px;
+  left: -42px;
+  color: #333;
+  font-size: 16px;
+  line-height: 28px;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_text li.status_text_2 {
+  left: 104px;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_text li.status_text_3 {
+  left: 256px;
+}
+#content .new_section ul.my_delivery li .progress_status ul.status_text li.status_text_4 {
+  left: 405px;
+}
+#content .new_section ul.my_delivery li .progress_status .status_list .list_time {
+  font-size: 12.5px;
+  color: #999;
+  padding-left: 20px;
+  position: relative;
+}
+#content .new_section ul.my_delivery li .progress_status .status_list .list_time em {
+  position: absolute;
+  left: 0;
+  top: 3px;
+  width: 10px;
+  height: 11px;
+  background: url(../../imgs/status_dot_b85a827.png) left top no-repeat;
+}
+#content .new_section ul.my_delivery li .progress_status .status_list .list_body {
+  border-left: 0;
+  line-height: 28px;
+  padding: 2px 0 20px 12px;
+  margin-left: 4px;
+}
+#content .new_section ul.my_delivery li .progress_status .status_list .list_body h3 {
+  font-size: 18px;
+  color: #555555;
+  margin: 0 0 10px;
+  font-weight: 400;
+}
+#content .new_section ul.my_delivery li .progress_status .status_list a.btn_closeprogress {
+  position: absolute;
+  right: 35px;
+  bottom: 30px;
+  width: 44px;
+  height: 44px;
+  background: url(../../imgs/progress_close_9c09979.png) no-repeat;
+}
+/*# sourceMappingURL=delivery.css.map */

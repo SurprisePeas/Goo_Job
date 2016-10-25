@@ -1,0 +1,526 @@
+[ 2016-09-01T06:05:52+08:00 ]NOTICE: Undefined index: infoC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (14).
+[ 2016-09-01T06:05:52+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:06:06+08:00 ]NOTICE: Undefined index: infoC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (14).
+[ 2016-09-01T06:06:07+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:08:35+08:00 ]NOTICE: Undefined index: infoC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (14).
+[ 2016-09-01T06:08:35+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:15:57+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => 'l',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '29',
+)HY000;1366;Incorrect integer value: 'l' for column 'age' at row 1
+[ 2016-09-01T06:16:21+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => 's',
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '0,0',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '29',
+)HY000;1366;Incorrect integer value: 's' for column 'age' at row 1
+[ 2016-09-01T06:32:24+08:00 ]NOTICE: Undefined offset: 4C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobController.php (179).
+[ 2016-09-01T06:38:30+08:00 ]NOTICE: Undefined offset: 4C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobController.php (179).
+[ 2016-09-01T06:38:30+08:00 ]NOTICE: Undefined offset: 4C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobController.php (179).
+[ 2016-09-01T06:42:27+08:00 ]NOTICE: Undefined offset: 4C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobController.php (179).
+[ 2016-09-01T06:51:29+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:53:19+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:53:29+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:53:33+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE uid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-09-01T06:54:08+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::add() must be of the type array, string given, called in C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\User.php on line 111 and definedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Hdphp\Model\Model.php (488).
+[ 2016-09-01T06:54:08+08:00 ]EXCEPTION: 30 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '30' at line 1
+[ 2016-09-01T06:55:14+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::add() must be of the type array, string given, called in C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\User.php on line 111 and definedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Hdphp\Model\Model.php (488).
+[ 2016-09-01T06:55:14+08:00 ]EXCEPTION: 31 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '31' at line 1
+[ 2016-09-01T07:03:05+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T07:03:11+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (311).
+[ 2016-09-01T07:05:22+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::save() must be of the type array, string given, called in C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php on line 44 and definedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Hdphp\Model\Model.php (533).
+[ 2016-09-01T07:05:27+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::save() must be of the type array, string given, called in C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php on line 44 and definedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Hdphp\Model\Model.php (533).
+[ 2016-09-01T07:08:05+08:00 ]EXCEPTION: UPDATE resume SET `position`=?,`sex`=?,`age`=?,`education`=?,`experience`=?,`area`=?,`introductions`=?,`cellphone`=?,`email`=?,`rid`=?,`lg_user_uid`=?  WHERE 'lg_user_uid'=>29 ;BindParams:array (
+  'position' => 'php',
+  'sex' => '男',
+  'age' => 13,
+  'education' => '大专',
+  'experience' => '2年',
+  'area' => '北京市,北京,东城区',
+  'introductions' => 'phpsssss',
+  'cellphone' => '45646545',
+  'email' => '65456@163.com',
+  'rid' => '18',
+  'lg_user_uid' => '29',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>29' at line 1
+[ 2016-09-01T07:10:45+08:00 ]NOTICE: Undefined offset: 4C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobController.php (166).
+[ 2016-09-01T07:12:33+08:00 ]NOTICE: Undefined offset: 4C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobController.php (167).
+[ 2016-09-01T07:15:38+08:00 ]NOTICE: unlink(''): No such file or directoryC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\PersonaController.php (81).
+[ 2016-09-01T07:16:00+08:00 ]NOTICE: unlink(): No such file or directoryC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (61).
+[ 2016-09-01T07:16:46+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:16:46+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:16:46+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-09-01T07:16:49+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (395).
+[ 2016-09-01T07:16:53+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:16:53+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:16:53+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-09-01T07:16:56+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:16:56+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:16:56+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-09-01T07:16:58+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (395).
+[ 2016-09-01T07:18:11+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (395).
+[ 2016-09-01T07:18:18+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (398).
+[ 2016-09-01T07:18:33+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (398).
+[ 2016-09-01T07:18:39+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (398).
+[ 2016-09-01T07:21:48+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:21:48+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T07:21:48+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-09-01T07:21:50+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (398).
+[ 2016-09-01T07:21:53+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (398).
+[ 2016-09-01T07:21:57+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (398).
+[ 2016-09-01T07:33:54+08:00 ]EXCEPTION: Method Home\Controller\CompanyController::Company_verify.html() does not exist
+[ 2016-09-01T07:36:35+08:00 ]EXCEPTION: Method Home\Controller\CompanyController::Company_verify.html() does not exist
+[ 2016-09-01T07:36:43+08:00 ]EXCEPTION: Method Home\Controller\CompanyController::Company_verify.html() does not exist
+[ 2016-09-01T08:16:16+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:17:00+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:20:00+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:20:45+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:21:22+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (494).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:26:12+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (494).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:31:55+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:36:38+08:00 ]EXCEPTION: INSERT INTO resume (`position`,`sex`,`age`,`education`,`experience`,`area`,`introductions`,`cellphone`,`email`,`rid`,`lg_user_uid`)VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '',
+  1 => '男',
+  2 => 0,
+  3 => '其他',
+  4 => '应届毕业生',
+  5 => '甘肃,兰州,皋兰县',
+  6 => '',
+  7 => '',
+  8 => '',
+  9 => '',
+  10 => '37',
+)HY000;1366;Incorrect integer value: '' for column 'rid' at row 1
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (41).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:46:46+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (41).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:47:19+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (41).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:47:48+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (39).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:49:52+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (39).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:53:01+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: areaC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (38).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (488).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (492).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (500).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (502).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: positionC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (516).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (526).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (530).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: sexC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (534).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: ageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (548).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (558).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (562).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (566).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (570).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: educationC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (574).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (590).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (594).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (598).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (602).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (606).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (610).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (614).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (618).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (622).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (626).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: experienceC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (630).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: introductionsC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: cellphoneC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (694).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (708).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: emailC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (710).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: ridC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (732).
+[ 2016-09-01T08:53:46+08:00 ]NOTICE: Undefined index: fileC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (768).
+[ 2016-09-01T08:54:32+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:54:32+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T08:54:32+08:00 ]NOTICE: Undefined index: C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T09:14:25+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:14:25+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:14:25+08:00 ]NOTICE: Undefined index: C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (686).
+[ 2016-09-01T09:23:46+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:23:46+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:25:30+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:25:30+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:25:47+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:25:47+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:25:55+08:00 ]NOTICE: implode(): Invalid arguments passedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php (40).
+[ 2016-09-01T09:27:32+08:00 ]NOTICE: implode(): Invalid arguments passedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php (40).
+[ 2016-09-01T09:27:58+08:00 ]NOTICE: implode(): Invalid arguments passedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php (40).
+[ 2016-09-01T09:28:02+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:28:02+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:28:04+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:28:04+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:28:32+08:00 ]NOTICE: implode(): Invalid arguments passedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php (40).
+[ 2016-09-01T09:29:31+08:00 ]NOTICE: implode(): Invalid arguments passedC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Common\Model\Resume.php (40).
+[ 2016-09-01T09:35:24+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:35:24+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:39:56+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:39:56+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:40:08+08:00 ]NOTICE: Undefined offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:40:08+08:00 ]NOTICE: Undefined offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:42:20+08:00 ]NOTICE: Uninitialized string offset: 0C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:42:20+08:00 ]NOTICE: Uninitialized string offset: 1C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:42:20+08:00 ]NOTICE: Uninitialized string offset: 2C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (37).
+[ 2016-09-01T09:42:20+08:00 ]NOTICE: Uninitialized string offset: 0C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (494).
+[ 2016-09-01T09:58:49+08:00 ]NOTICE: unlink(): No such file or directoryC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\App\Home\Controller\JobhunterController.php (66).
+[ 2016-09-01T10:05:45+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T10:17:37+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:17:48+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:17:51+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:17:56+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:00+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:03+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:15+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:19+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:21+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:23+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:25+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:27+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T10:18:30+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T10:18:30+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T10:18:30+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (756).
+[ 2016-09-01T10:18:32+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T10:18:37+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T10:44:32+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T10:45:36+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T10:46:01+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (374).
+[ 2016-09-01T10:46:06+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T11:16:40+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:19:32+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T11:19:32+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T11:19:32+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (756).
+[ 2016-09-01T11:19:35+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T11:19:35+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T11:19:35+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (756).
+[ 2016-09-01T11:19:38+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (310).
+[ 2016-09-01T11:19:40+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:19:40+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T11:22:37+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T11:22:37+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (336).
+[ 2016-09-01T11:22:37+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (756).
+[ 2016-09-01T11:22:44+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (310).
+[ 2016-09-01T11:47:18+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T11:47:22+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (310).
+[ 2016-09-01T11:47:29+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T11:47:39+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:48:53+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:49:03+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:50:20+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T11:50:24+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (310).
+[ 2016-09-01T11:50:30+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T11:50:39+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:51:53+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T11:52:04+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-01T12:32:35+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T13:53:24+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T13:54:40+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T13:55:23+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T13:57:47+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T13:58:02+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (577).
+[ 2016-09-01T14:34:18+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:35:22+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:40:15+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:40:23+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:40:59+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:42:09+08:00 ]EXCEPTION: Method Home\Controller\IndexController::indexdsadas() does not exist
+[ 2016-09-01T14:42:10+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:42:23+08:00 ]NOTICE: Undefined variable: disDataC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T14:42:23+08:00 ]NOTICE: Invalid argument supplied for foreach()C:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (420).
+[ 2016-09-01T14:42:23+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\13a73cf05cb9356a121c5262458e056a.php (840).
+[ 2016-09-01T14:44:23+08:00 ]EXCEPTION: UPDATE resume SET `position`=?,`sex`=?,`age`=?,`education`=?,`experience`=?,`area`=?,`introductions`=?,`cellphone`=?,`email`=?,`rid`=?,`lg_user_uid`=?  WHERE  rid=?  ;BindParams:array (
+  'position' => 'PHP工程师',
+  'sex' => '男',
+  'age' => 22,
+  'education' => '其他',
+  'experience' => '3年',
+  'area' => '北京市,北京,海淀区',
+  'introductions' => '十年学会PHP',
+  'cellphone' => '11465654855222',
+  'email' => '11465654855456@163.com',
+  'rid' => '12',
+  'lg_user_uid' => '18',
+  0 => '12',
+)22001;1406;Data too long for column 'cellphone' at row 1
+[ 2016-09-01T14:50:20+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:51:27+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:52:58+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T14:53:07+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T16:45:46+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T16:45:48+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T16:45:52+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T16:45:57+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T16:46:01+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T16:46:13+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T17:09:00+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (374).
+[ 2016-09-01T17:09:08+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T18:01:45+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (374).
+[ 2016-09-01T18:03:35+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (578).
+[ 2016-09-01T18:04:03+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T18:04:08+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (1046).
+[ 2016-09-01T23:32:08+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-01T23:32:10+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\1d68404e575295cb9dc89eaa6770eaae.php (310).

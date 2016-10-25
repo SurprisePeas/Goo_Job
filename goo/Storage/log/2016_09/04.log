@@ -1,0 +1,4 @@
+[ 2016-09-04T00:00:51+08:00 ]EXCEPTION: Method Admin\Controller\PowerController::addPower() does not exist
+[ 2016-09-04T00:01:36+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\new_lg\Storage\view\compile\ece2ae0245a604c4078e2a457ccf6e45.php (60).
+[ 2016-09-04T00:01:36+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\new_lg\Storage\view\compile\ece2ae0245a604c4078e2a457ccf6e45.php (60).
+[ 2016-09-04T00:05:30+08:00 ]EXCEPTION: Method Admin\Controller\PowerController::update_cache() does not exist

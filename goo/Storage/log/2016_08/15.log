@@ -1,0 +1,149 @@
+[ 2016-08-15T00:37:01+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:37:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:37:54+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:37:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:38:42+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:38:42+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:38:44+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:38:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:38:45+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T00:38:45+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\lg\Storage\view\compile\2967e5be34a51b59a227cf7ac9042af0.php (25).
+[ 2016-08-15T08:29:55+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\e3b252a99e7850208b2d162019408026.php (23).
+[ 2016-08-15T08:29:55+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\e3b252a99e7850208b2d162019408026.php (23).
+[ 2016-08-15T08:30:10+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\e3b252a99e7850208b2d162019408026.php (23).
+[ 2016-08-15T08:30:27+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\e3b252a99e7850208b2d162019408026.php (23).
+[ 2016-08-15T08:30:34+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\e3b252a99e7850208b2d162019408026.php (23).
+[ 2016-08-15T09:32:02+08:00 ]NOTICE: Undefined index: _nameD:\wamp\www\lg\Storage\view\compile\e3b252a99e7850208b2d162019408026.php (22).
+[ 2016-08-15T09:42:08+08:00 ]NOTICE: Array to string conversionD:\wamp\www\lg\Hdphp\Db\Mysql.php (204).
+[ 2016-08-15T09:42:08+08:00 ]EXCEPTION: INSERT INTO category (`cname`,`0`)VALUES(?,?) ;BindParams:array (
+  0 => '呃呃呃',
+  1 => 
+  array (
+    'pid' => '13',
+  ),
+)42S22;1054;Unknown column '0' in 'field list'
+[ 2016-08-15T09:52:05+08:00 ]EXCEPTION: Admin\Controller\U(CategoryController 不存在
+[ 2016-08-15T09:52:45+08:00 ]EXCEPTION: Admin\Controller\U(CategoryController 不存在
+[ 2016-08-15T10:55:53+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (23).
+[ 2016-08-15T10:55:53+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (23).
+[ 2016-08-15T10:55:53+08:00 ]NOTICE: Undefined variable: cateD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (28).
+[ 2016-08-15T10:57:31+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (18).
+[ 2016-08-15T10:57:31+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (23).
+[ 2016-08-15T10:57:31+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (23).
+[ 2016-08-15T10:57:31+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (28).
+[ 2016-08-15T10:58:23+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\App\Admin\Controller\CategoryController.php (56).
+[ 2016-08-15T10:58:23+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (18).
+[ 2016-08-15T10:58:23+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (23).
+[ 2016-08-15T10:58:23+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (23).
+[ 2016-08-15T10:58:23+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\lg\Storage\view\compile\9a36d541773c38fae3f3e2a3a60af071.php (28).
+[ 2016-08-15T15:04:46+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Company/verification.php
+[ 2016-08-15T15:06:08+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Company/verification.php
+[ 2016-08-15T17:06:25+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\lg\App\Home\Controller\CompanyController.php (23).
+[ 2016-08-15T17:33:57+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (200).
+[ 2016-08-15T17:39:50+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:40:49+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:41:30+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:41:54+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:43:42+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:43:46+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:43:51+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T17:43:55+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:06:59+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:11:22+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE lg_user_uid=8 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'lg_user_uid' in 'where clause'
+[ 2016-08-15T18:11:22+08:00 ]EXCEPTION: SELECT  *  FROM lg_user WHERE lg_user_uid=8 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'lg_user_uid' in 'where clause'
+[ 2016-08-15T18:12:18+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (144).
+[ 2016-08-15T18:12:18+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:12:25+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (144).
+[ 2016-08-15T18:12:25+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:12:30+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:12:45+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:12:51+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (138).
+[ 2016-08-15T18:12:51+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:15:20+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (138).
+[ 2016-08-15T18:15:20+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:15:48+08:00 ]NOTICE: Use of undefined constant Y - assumed 'Y'D:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (138).
+[ 2016-08-15T18:15:48+08:00 ]NOTICE: Use of undefined constant m - assumed 'm'D:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (138).
+[ 2016-08-15T18:15:48+08:00 ]NOTICE: Use of undefined constant d - assumed 'd'D:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (138).
+[ 2016-08-15T18:15:48+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (138).
+[ 2016-08-15T18:15:48+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:16:23+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T18:17:47+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (201).
+[ 2016-08-15T19:37:38+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (202).
+[ 2016-08-15T19:41:33+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:42:27+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:42:33+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:42:38+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:42:56+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:46:03+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:46:15+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:46:27+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:47:09+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:47:17+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:47:24+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:47:33+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:48:34+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T19:52:07+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (253).
+[ 2016-08-15T19:52:10+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (253).
+[ 2016-08-15T19:52:14+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (253).
+[ 2016-08-15T19:54:32+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (253).
+[ 2016-08-15T19:56:52+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:03:42+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:10:57+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:12:36+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:20:59+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:22:02+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (205).
+[ 2016-08-15T20:22:14+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:28:51+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (205).
+[ 2016-08-15T20:29:31+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (205).
+[ 2016-08-15T20:29:37+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (205).
+[ 2016-08-15T20:31:21+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (205).
+[ 2016-08-15T20:34:00+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (205).
+[ 2016-08-15T20:34:22+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:35:00+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:37:58+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:40:15+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (204).
+[ 2016-08-15T20:48:54+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T20:49:23+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T20:52:21+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T20:52:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T20:52:58+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T20:54:38+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (246).
+[ 2016-08-15T20:58:12+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T20:58:26+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T21:42:14+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:44:27+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:50:04+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:55:27+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:56:34+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:57:56+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:58:07+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T21:59:55+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:00:03+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:01:45+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:03:55+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:04:11+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:04:49+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T22:05:31+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (249).
+[ 2016-08-15T22:07:00+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:40:04+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:40:36+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (248).
+[ 2016-08-15T22:45:08+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T22:52:20+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (253).
+[ 2016-08-15T22:53:05+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (253).
+[ 2016-08-15T22:59:22+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T23:00:14+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T23:04:09+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (154).
+[ 2016-08-15T23:04:40+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (154).
+[ 2016-08-15T23:04:40+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (164).
+[ 2016-08-15T23:05:08+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (154).
+[ 2016-08-15T23:05:08+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (164).
+[ 2016-08-15T23:05:28+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (252).
+[ 2016-08-15T23:07:20+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T23:07:30+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T23:07:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T23:10:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T23:10:41+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T23:10:57+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).
+[ 2016-08-15T23:11:12+08:00 ]NOTICE: Undefined index: countD:\wamp\www\lg\Storage\view\compile\286dfefc3a47450b91a200a6bcb80451.php (251).

@@ -1,0 +1,99 @@
+[ 2016-08-12T08:47:14+08:00 ]EXCEPTION: Login\Controller\IndexController 不存在
+[ 2016-08-12T09:09:16+08:00 ]NOTICE: Division by zeroD:\wamp\www\lg\Hdphp\Code\Code.php (154).
+[ 2016-08-12T09:09:16+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\lg\Hdphp\Code\Code.php (161).
+[ 2016-08-12T09:09:37+08:00 ]NOTICE: Division by zeroD:\wamp\www\lg\Hdphp\Code\Code.php (154).
+[ 2016-08-12T09:09:37+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\lg\Hdphp\Code\Code.php (161).
+[ 2016-08-12T09:10:50+08:00 ]NOTICE: Division by zeroD:\wamp\www\lg\Hdphp\Code\Code.php (154).
+[ 2016-08-12T09:10:50+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\lg\Hdphp\Code\Code.php (161).
+[ 2016-08-12T09:11:28+08:00 ]NOTICE: Division by zeroD:\wamp\www\lg\Hdphp\Code\Code.php (154).
+[ 2016-08-12T09:11:28+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\lg\Hdphp\Code\Code.php (161).
+[ 2016-08-12T09:11:31+08:00 ]NOTICE: Division by zeroD:\wamp\www\lg\Hdphp\Code\Code.php (154).
+[ 2016-08-12T09:11:31+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\lg\Hdphp\Code\Code.php (161).
+[ 2016-08-12T09:11:33+08:00 ]NOTICE: Division by zeroD:\wamp\www\lg\Hdphp\Code\Code.php (154).
+[ 2016-08-12T09:11:33+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\lg\Hdphp\Code\Code.php (161).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: Missing argument 1 for Hdphp\Code\Code::width(), called in D:\wamp\www\lg\App\Home\Controller\LoginController.php on line 18 and definedD:\wamp\www\lg\Hdphp\Code\Code.php (72).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: Undefined variable: widthD:\wamp\www\lg\Hdphp\Code\Code.php (74).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagecreatetruecolor(): Invalid image dimensionsD:\wamp\www\lg\Hdphp\Code\Code.php (114).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagecolorallocate() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (115).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagefill() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (116).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagecolorallocate() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (129).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (133).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagecolorallocate() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (152).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagettftext() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (159).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagettftext() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (159).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetpixel() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (168).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (172).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imageline() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (172).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagearc() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (178).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagesetthickness() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (180).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: Cannot modify header information - headers already sent by (output started at D:\wamp\www\lg\Hdphp\Error\View\notice.php:4)D:\wamp\www\lg\Hdphp\Code\Code.php (37).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagepng() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (38).
+[ 2016-08-12T09:19:53+08:00 ]NOTICE: imagedestroy() expects parameter 1 to be resource, boolean givenD:\wamp\www\lg\Hdphp\Code\Code.php (39).
+[ 2016-08-12T11:08:10+08:00 ]NOTICE: Undefined index: codeD:\wamp\www\lg\App\Home\Controller\LoginController.php (13).
+[ 2016-08-12T11:11:19+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (62).
+[ 2016-08-12T15:10:27+08:00 ]EXCEPTION: INSERT INTO lg_user (`account`,`password`,`distinguish`)VALUES(?,?,?) ;BindParams:array (
+  0 => 'admin888',
+  1 => 'admin888',
+  2 => '1',
+)23000;1062;Duplicate entry '0' for key 'PRIMARY'
+[ 2016-08-12T15:53:17+08:00 ]NOTICE: Use of undefined constant md5 - assumed 'md5'D:\wamp\www\lg\App\Home\Controller\LoginController.php (11).
+[ 2016-08-12T15:53:17+08:00 ]NOTICE: Use of undefined constant md5 - assumed 'md5'D:\wamp\www\lg\App\Home\Controller\LoginController.php (11).
+[ 2016-08-12T17:22:58+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (42).
+[ 2016-08-12T17:22:58+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (102).
+[ 2016-08-12T17:24:38+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (60).
+[ 2016-08-12T17:24:38+08:00 ]NOTICE: Undefined index: infoD:\wamp\www\lg\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (120).

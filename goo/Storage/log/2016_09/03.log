@@ -1,0 +1,102 @@
+[ 2016-09-03T00:00:28+08:00 ]NOTICE: Undefined index: countC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (314).
+[ 2016-09-03T00:00:47+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-03T00:01:29+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-03T00:01:32+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-03T00:12:54+08:00 ]NOTICE: Undefined variable: pageC:\home\ftp\c\c69_guoqing\wwwroot\new_lg\Storage\view\compile\7eddd672bed72442a50596e7a20376a8.php (986).
+[ 2016-09-03T12:19:35+08:00 ]EXCEPTION: SQLSTATE[HY000] [1045] Access denied for user 'c69_guoqing'@'localhost' (using password: YES)
+[ 2016-09-03T12:20:09+08:00 ]EXCEPTION: show columns from `lagou_job` ;BindParams:array (
+)42S02;1146;Table 'lg_edu.lagou_job' doesn't exist
+[ 2016-09-03T12:20:35+08:00 ]NOTICE: Undefined index: countD:\wamp\www\PhpClass\Online\lagou_online\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-09-03T12:20:39+08:00 ]NOTICE: Undefined index: countD:\wamp\www\PhpClass\Online\lagou_online\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-09-03T14:56:27+08:00 ]NOTICE: Undefined index: countD:\wamp\www\new_lg\Storage\view\compile\8656c0fcb1ece94f616b6a6d1bd08008.php (157).
+[ 2016-09-03T15:02:17+08:00 ]EXCEPTION: SELECT  *  FROM rbac_adminuser WHERE aname='admin' ;BindParams:array (
+)42S22;1054;Unknown column 'aname' in 'where clause'
+[ 2016-09-03T15:04:16+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\new_lg\App\Admin\Controller\LoginController.php (23).
+[ 2016-09-03T15:21:17+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\new_lg\App\Admin\Controller\LoginController.php (23).
+[ 2016-09-03T15:21:17+08:00 ]NOTICE: Undefined variable: userDataD:\wamp\www\new_lg\App\Admin\Controller\LoginController.php (24).
+[ 2016-09-03T15:21:40+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:41+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:43+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:43+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:46+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:46+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:48+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:49+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:51+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:51+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:53+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:54+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:56+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:56+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:57+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:21:58+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:21:58+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:22:01+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:01+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:22:03+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:04+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:04+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:22:06+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:06+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:22:09+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:09+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:22:11+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:11+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T15:22:13+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:13+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:14+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T15:22:14+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T17:37:03+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T17:37:04+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T17:37:04+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=1 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:37:12+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T17:37:12+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=1 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:37:12+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T17:37:12+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=1 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:38:08+08:00 ]NOTICE: Undefined index: usernameD:\wamp\www\new_lg\Hdphp\Db\Mysql.php (1060).
+[ 2016-09-03T17:38:08+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=1 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:42:12+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T17:43:13+08:00 ]NOTICE: Undefined index: AdmininfoD:\wamp\www\new_lg\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (39).
+[ 2016-09-03T17:44:26+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:45:52+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:45:56+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:45:57+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:45:59+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:46:01+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:46:02+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:46:04+08:00 ]EXCEPTION: Admin\Controller\LinkController 不存在
+[ 2016-09-03T17:46:08+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:46:09+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:46:11+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T17:46:12+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:32:15+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:32:19+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:32:20+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:32:22+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:32:24+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:32:25+08:00 ]EXCEPTION: SELECT n.id,n.name,n.pid,n.level,n.title,n.show FROM rbac_admin_user_role ur JOIN rbac_admin_role r ON ur.role_id = r.id  JOIN rbac_admin_access a ON a.role_id=r.id  JOIN rbac_admin_node n ON n.id = a.node_id WHERE ur.user_id=3 AND n.status=1 AND r.status=1 GROUP BY a.node_id ORDER BY n.sort ASC ;BindParams:array (
+)42S22;1054;Unknown column 'n.id' in 'field list'
+[ 2016-09-03T22:50:55+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/AuthGroup/index.php
+[ 2016-09-03T22:54:50+08:00 ]EXCEPTION: Admin\Controller\AuthRuleController 不存在
+[ 2016-09-03T23:59:34+08:00 ]EXCEPTION: Admin\Controller\AuthGroupController 不存在
+[ 2016-09-03T23:59:48+08:00 ]EXCEPTION: Admin\Controller\AuthGroupController 不存在

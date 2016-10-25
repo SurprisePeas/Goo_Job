@@ -1,0 +1,49 @@
+[ 2016-08-21T01:41:03+08:00 ]EXCEPTION: Method Home\Controller\IndexController::huntlist() does not exist
+[ 2016-08-21T01:45:26+08:00 ]EXCEPTION: Home\Controller\ResumeController 不存在
+[ 2016-08-21T10:35:31+08:00 ]EXCEPTION: Home\Controller\ResumeController 不存在
+[ 2016-08-21T10:35:56+08:00 ]EXCEPTION: Home\Controller\ResumeController 不存在
+[ 2016-08-21T10:40:48+08:00 ]EXCEPTION: Home\Controller\JobhunterController 不存在
+[ 2016-08-21T10:42:52+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::send() does not exist
+[ 2016-08-21T10:43:58+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Jobhunter/send.php
+[ 2016-08-21T12:43:42+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T15:01:49+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T15:04:30+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T15:06:13+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T15:10:12+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T15:13:13+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T15:13:28+08:00 ]EXCEPTION: Method Home\Controller\JobhunterController::upload() does not exist
+[ 2016-08-21T16:01:05+08:00 ]NOTICE: unlink(''): No such file or directoryD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (46).
+[ 2016-08-21T16:01:05+08:00 ]EXCEPTION: header_pic='' ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'header_pic=''' at line 1
+[ 2016-08-21T16:02:25+08:00 ]EXCEPTION: header_pic=./Public/home/imgs/personaPic/default_headpic.png ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'header_pic=./Public/home/imgs/personaPic/default_headpic.png' at line 1
+[ 2016-08-21T16:08:41+08:00 ]NOTICE: unlink(./Public/home/imgs/personaPic/default_headpic.png): No such file or directoryD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (46).
+[ 2016-08-21T16:08:41+08:00 ]EXCEPTION: header_pic=./Public/home/imgs/personaPic/default_headpic.png ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'header_pic=./Public/home/imgs/personaPic/default_headpic.png' at line 1
+[ 2016-08-21T16:16:32+08:00 ]EXCEPTION: header_pic=Upload/Content/16/08/83661471767392.png ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'header_pic=Upload/Content/16/08/83661471767392.png' at line 1
+[ 2016-08-21T16:38:49+08:00 ]NOTICE: unlink(''): No such file or directoryD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (46).
+[ 2016-08-21T16:45:58+08:00 ]NOTICE: unlink(''): No such file or directoryD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (46).
+[ 2016-08-21T16:49:19+08:00 ]NOTICE: unlink(): Invalid argumentD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (46).
+[ 2016-08-21T22:01:00+08:00 ]NOTICE: unlink(''): No such file or directoryD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (99).
+[ 2016-08-21T22:05:35+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\lg\App\Common\Model\Resume.php (31).
+[ 2016-08-21T22:05:37+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T22:05:37+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T22:49:28+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (164).
+[ 2016-08-21T22:49:45+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\lg\Hdphp\View\HdphpTag.php (164).
+[ 2016-08-21T22:55:55+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T22:55:55+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:08:10+08:00 ]NOTICE: unlink(): Invalid argumentD:\wamp\www\lg\App\Home\Controller\JobhunterController.php (99).
+[ 2016-08-21T23:17:48+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:17:48+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:19:35+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:19:35+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:28:03+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:28:03+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:30:05+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:30:05+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:30:45+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:30:45+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:31:14+08:00 ]NOTICE: Undefined offset: 1D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:31:14+08:00 ]NOTICE: Undefined offset: 2D:\wamp\www\lg\Storage\view\compile\ccdbb5a99913c19821d3f579f9bb9393.php (354).
+[ 2016-08-21T23:31:35+08:00 ]EXCEPTION: Method Home\Controller\IndexController::content() does not exist

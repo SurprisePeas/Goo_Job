@@ -1,0 +1,49 @@
+#onlineJob {
+  margin: 20px 0 50px;
+}
+#onlineJob li {
+  position: relative;
+  height: 50px;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  border: 1px solid #e8e8e8;
+}
+#onlineJob li .item_title_data {
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+#onlineJob li .item_title_data a {
+  float: left;
+  font-size: 16px;
+  color: #00b38a;
+  max-width: 200px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#onlineJob li .item_title_data span {
+  float: right;
+  color: #999;
+}
+#onlineJob li .item_detail .item_salary {
+  float: left;
+  color: #fd5f39;
+}
+#onlineJob li .item_detail .item_desc {
+  margin-left: 20px;
+  color: #333;
+  line-height: 26px;
+}
+#onlineJob li i {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background-color: #00b38a;
+}
+#onlineJob li:hover {
+  background-color: #FAFAFA;
+}
+/*# sourceMappingURL=editcompany2.0.css.map */
