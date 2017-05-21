@@ -1,3 +1,7 @@
 [ 2017-05-20T20:49:01+08:00 ]EXCEPTION: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
 [ 2017-05-20T20:49:02+08:00 ]EXCEPTION: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
 [ 2017-05-20T20:52:11+08:00 ]EXCEPTION: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[ 2017-05-20T21:04:06+08:00 ]EXCEPTION: show columns from `job` ;BindParams:array (
+)42S02;1146;Table 'lg_edu.job' doesn't exist
+[ 2017-05-20T21:04:08+08:00 ]EXCEPTION: show columns from `job` ;BindParams:array (
+)42S02;1146;Table 'lg_edu.job' doesn't exist

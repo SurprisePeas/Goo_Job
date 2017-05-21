@@ -10,7 +10,7 @@ return array(
     'driver'            => 'mysql',     //数据库类型
     'charset'           => 'utf8',      //数据库字符集
     'user'              => 'root',      //数据库用户名
-    'password'          => '',          //数据库密码
+    'password'          => '168surprise',          //数据库密码
     'database'          => 'lg_edu',    //数据库名称
-    'prefix'            => '',          //表前缀
+    'prefix'            => 'lagou_',          //表前缀
 );

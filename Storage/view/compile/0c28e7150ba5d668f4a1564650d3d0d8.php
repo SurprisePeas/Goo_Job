@@ -41,60 +41,18 @@
 				<ul>
 
 					<!--判断有session的时候显示内容-->
-					                
-					<!--判断是否是求职者-->
-					                
-					<!--<li>
-						<a href="" style="border-left: none;">
-							消息
-						</a>
-					</li>-->
-					<li>
-						<a href="Jobhunter_my.html">
-							我的简历
+										<li>
+						<a href="http://goojob.com/index.php?m=Home&c=Login&a=index" target="_blank" style="border: 0;">
+							登录
 						</a>
 					</li>
 					<li>
-						<a href="Resume_box.html">
-							投递箱
+						<a href="http://goojob.com/index.php?m=Home&c=Login&a=register"  target="_blank">
+							注册
 						</a>
 					</li>
-					<!--<li>
-						<a href="http://localhost/goo/index.php?m=Home&c=Jobhunter&a=collect">
-							收藏夹
-						</a>
-					</li>-->
 					
-               					<li class="showUser">
-						<!--页面显示用户名,账号-->
-						<!--<span class="unick"> geren1111 </span>-->
-						<span class="unick"> 美国队长 </span>
-						<i></i>
-						<!--隐藏的个人信息-->
-						<ul class="user_dpdown">
-							<li>
-								<a href="Persona_user.html">
-									账号设置
-								</a>
-							</li>
-							<li>
-								<a href="Company_adm.html" target="_blank">
-									去企业版
-								</a>
-							</li>
-							<li>
-								<a href="http://localhost/goo/index.php?m=Home&c=Login&a=out">
-									退出
-								</a>
-							</li>
-						</ul>
-					</li>
-
-					<!---->
-
-
-					<!--没有session的时候显示登录注册按钮-->
-										<!--/#判断有session的时候显示内容-->
+               					<!--/#判断有session的时候显示内容-->
 
 				</ul>
 			</div>
@@ -121,7 +79,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="http://localhost/goo/index.php?m=Home&c=Index&a=companylist" >
+					<a href="http://goojob.com/index.php?m=Home&c=Index&a=companylist" >
 						公司
 					</a>
 				</li>
@@ -737,14 +695,14 @@
 				<img src="./Public/home/imgs/login/footbar_logo_e2fde1b.png"/>
 				<!--<span class="companycount"> <i style="background-position-y: -30px;"></i><i style="background-position-y: -60px;"></i><i style="background-position-y: -60px;"></i><b></b><i style="background-position-y: -60px;"></i><i style="background-position-y: -180px;"></i><i style="background-position-y: -60px;"></i> </span>
 				<span class="jobscount"> <i style="background-position-y: -30px;"></i><b></b><i style="background-position-y: -240px;"></i><i style="background-position-y: -90px;"></i><i style="background-position-y: -270px;"></i><b></b><i style="background-position-y: -60px;"></i><i style="background-position-y: 0px;"></i><i style="background-position-y: 0px;"></i> </span>-->
-				<span class="companycount"> 10</span>
-				<span class="jobscount">36</span>
+				<span class="companycount"> 8</span>
+				<span class="jobscount">39</span>
 				
 				<a href="javascript:;" class="bar_login">
 					<i></i>
 				</a>
 				<div class="lt_r">
-					<a href="http://localhost/goo/index.php?m=Home&c=Login&a=register" target="_blank">
+					<a href="http://goojob.com/index.php?m=Home&c=Login&a=register" target="_blank">
 						<i></i>
 					</a>
 				</div>
@@ -782,7 +740,7 @@
 									var allre = $("#bcd_login").serialize();
 									$.ajax({
 										type:"post",
-										url:"http://localhost/goo/index.php?m=Home&c=Login&a=modalAjax",
+										url:"http://goojob.com/index.php?m=Home&c=Login&a=modalAjax",
 										dataType:"JSON",
 										data:allre,
 										success:function(phpData){
@@ -800,7 +758,7 @@
 								<div>
 									还没有拉勾帐号？
 								</div>
-								<a href="http://localhost/goo/index.php?m=Home&c=Login&a=register" class="registor_now" target="_blank">
+								<a href="http://goojob.com/index.php?m=Home&c=Login&a=register" class="registor_now" target="_blank">
 									立即注册
 								</a>
 								<div class="login_others">

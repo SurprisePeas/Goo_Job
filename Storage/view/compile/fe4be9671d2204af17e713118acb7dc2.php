@@ -128,14 +128,14 @@
 			<!--//首页公司-->
 			<ul class="lg_tnav_wrap">
 				<li>
-					<a href="SurprisePeas" id="noBorder"<?php if('huntlist' == 'companylist'){?>
+					<a href="SurprisePeas" id="noBorder"<?php if('index' == 'companylist'){?>
                 class=""
                <?php }?> class="current"  >
 						首页
 					</a>
 				</li>
 				<li>
-					<a href="<?php echo U('Index/companylist')?>" <?php if('huntlist' == 'companylist'){?>
+					<a href="<?php echo U('Index/companylist')?>" <?php if('index' == 'companylist'){?>
                  class="current"
                <?php }?>>
 						公司
